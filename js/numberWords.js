@@ -21,7 +21,7 @@
   // Mapeamento fonético das letras do bingo para pronúncia natural em PT-BR
   const LETRA_FONETICA = {
     B: 'Bê',
-    I: 'Í',
+    I: 'I',
     N: 'Êne',
     G: 'Gê',
     O: 'Ó'
